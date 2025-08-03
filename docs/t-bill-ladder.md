@@ -10,7 +10,6 @@ description: How to construct a Treasury bill ladder for steady returns.
 2. Break into T-bills of staggered maturities (4w, 8w, 13w, 26w).  
 3. Reinvest proceeds into the longest rung.
 
-<AdInline />
 
 ### Sample Ladder
 

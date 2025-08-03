@@ -10,7 +10,6 @@ description: Explore different passive income streams beyond T-bill ladders.
 - **Dividend Investing**: Build a portfolio yielding 3–4%.  
 - **Online Content**: Monetize a blog or YouTube channel.  
 
-<AdInline />
 
 ### Scaling to $10K/Month
 

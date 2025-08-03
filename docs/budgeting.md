@@ -23,7 +23,6 @@ Use a spreadsheet or app to log:
 - Debt payments  
 - Discretionary spending  
 
-<AdInline />
 
 ### 3. Allocate Funds
 

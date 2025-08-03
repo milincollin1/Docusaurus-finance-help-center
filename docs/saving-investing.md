@@ -12,7 +12,6 @@ After budgeting, focus on growing your net worth.
 
 Aim for 3–6 months of expenses in a high-yield savings account.
 
-<AdInline />
 
 ### 2. T-Bill Ladder
 

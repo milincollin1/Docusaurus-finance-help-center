@@ -8,7 +8,6 @@ description: Welcome to the Finance Help Center—learn how to manage your money
 
 Welcome to your ultimate guide for budgeting, saving, and investing. Navigate the sidebar to find step-by-step tutorials, and scroll through our articles for hands-on advice.
 
-<AdInline />
 
 ## How to Use This Site
 
