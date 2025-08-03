@@ -81,6 +81,14 @@ const config = {
         ],
         copyright: `© ${new Date().getFullYear()} Finance Help Center`,
       },
+      // Dark mode configuration
+      colorMode: {
+        defaultMode: 'dark',
+        // Allow users to toggle between light and dark
+        disableSwitch: false,
+        // Do NOT respect system preference; always start in dark
+        respectPrefersColorScheme: false,
+      },
       // Prism syntax highlighting was removed to avoid build errors
       // prism: {
       //   theme: require('prism-react-renderer/themes/github'),
